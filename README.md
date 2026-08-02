@@ -117,7 +117,7 @@ Through this project, I strengthened my understanding of:
 
 ## 🌐 Live Demo
 
-Coming Soon...
+Live Demo: https://password-generator-ebon-two-49.vercel.app/
 
 ---
 
