@@ -1,16 +1,136 @@
-# React + Vite
+# 🔐 Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Password Generator built with **React**, **Vite**, and **Tailwind CSS**. This application allows users to generate strong, secure, and customizable passwords with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 Overview
 
-## React Compiler
+This project was built to practice React fundamentals, state management, and modern UI development. Users can generate random passwords and customize them by selecting different options such as password length and character types.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔒 Generate secure random passwords
+- 📏 Adjustable password length
+- 🔠 Include uppercase letters
+- 🔡 Include lowercase letters
+- 🔢 Include numbers
+- 🔣 Include special characters
+- 📋 Copy password to clipboard
+- ⚡ Instant password generation
+- 📱 Fully responsive design
+- 🎨 Modern UI built with Tailwind CSS
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+---
+
+## 📚 Concepts Practiced
+
+- React Functional Components
+- React Hooks (`useState`, `useEffect`, `useCallback')
+- Event Handling
+- State Management
+- Conditional Rendering
+- Clipboard API
+- Dynamic UI Updates
+- Responsive Design
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+├── App.jsx
+├── main.jsx
+├── index.css
+└── assets/
+
+public/
+
+package.json
+vite.config.js
+README.md
+```
+
+---
+
+## Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/MehmoodAhmed006/Password-Generator.git
+```
+
+### Navigate to the project
+
+```bash
+cd Password-Generator
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- React Hooks
+- State management
+- Dynamic rendering
+- User interactions
+- Password generation logic
+- Tailwind CSS utility classes
+- Building responsive user interfaces
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## 👨‍💻 Author
+
+**Mehmood Ahmed**
+
+Frontend Developer | React Learner
+
+GitHub: https://github.com/MehmoodAhmed006
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
