@@ -39,7 +39,7 @@ This project was built to practice React fundamentals, state management, and mod
 ## 📚 Concepts Practiced
 
 - React Functional Components
-- React Hooks (`useState`, `useEffect`, `useCallback')
+- React Hooks (`useState`, `useEffect`, `useCallback', 'useRef')
 - Event Handling
 - State Management
 - Conditional Rendering
